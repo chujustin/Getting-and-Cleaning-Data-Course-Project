@@ -1,3 +1,4 @@
+# Code Book
 
 
 1\. Download and extract the zip file of the raw data into the folder "UHI HAR Dataset", which is created automatically on unzipping.
